@@ -1,3 +1,0 @@
-#Include <iostream>;
-
-cout << "hello";
